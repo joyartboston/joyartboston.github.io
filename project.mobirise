@@ -63,7 +63,10 @@
     "gdpr": false,
     "uniqCompNum": 12,
     "versionPublish": "5.7.12",
-    "usedWebp": false
+    "usedWebp": false,
+    "publishType": "local",
+    "mbrsite": "mbrsite://%7B%22id%22%3A280074%2C%22domain%22%3A%22ozbi2eelag.mobirisesite.com%22%7D",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
