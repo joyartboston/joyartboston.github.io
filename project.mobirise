@@ -64,7 +64,9 @@
     "uniqCompNum": 15,
     "versionPublish": "5.8.0",
     "usedWebp": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
